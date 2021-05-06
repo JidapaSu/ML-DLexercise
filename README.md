@@ -1,1 +1,1 @@
-# ML-DLexercise
+# ML & DL exercises
